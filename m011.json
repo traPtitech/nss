@@ -408,6 +408,23 @@
 		]
 	},
 	{
+		"name": "eki",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/eki",
+		"shell": "/bin/bash",
+		"uid": 60050,
+		"gid": 60050
+	},
+	{
+		"name": "eki",
+		"passwd": "",
+		"gid": 60050,
+		"members": [
+			"eki"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -435,7 +452,8 @@
 			"H1rono",
 			"Pugma",
 			"alter334",
-			"ZOI-dayo"
+			"ZOI-dayo",
+			"eki"
 		]
 	}
 ]
