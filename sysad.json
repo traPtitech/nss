@@ -119,23 +119,6 @@
 		]
 	},
 	{
-		"name": "s9-sukyu",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/s9-sukyu",
-		"shell": "/bin/bash",
-		"uid": 60040,
-		"gid": 60040
-	},
-	{
-		"name": "s9-sukyu",
-		"passwd": "",
-		"gid": 60040,
-		"members": [
-			"s9-sukyu"
-		]
-	},
-	{
 		"name": "pikachu0310",
 		"passwd": "",
 		"gecos": "",
@@ -470,7 +453,6 @@
 			"seigo2016",
 			"zer0-star",
 			"Takeno-hito",
-			"s9-sukyu",
 			"pikachu0310",
 			"cp-20",
 			"pirosiki197",
