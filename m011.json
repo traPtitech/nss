@@ -391,23 +391,6 @@
 		]
 	},
 	{
-		"name": "reiroop",
-		"passwd": "",
-		"gecos": "",
-		"dir": "/home/reiroop",
-		"shell": "/bin/bash",
-		"uid": 60062,
-		"gid": 60062
-	},
-	{
-		"name": "reiroop",
-		"passwd": "",
-		"gid": 60062,
-		"members": [
-			"reiroop"
-		]
-	},
-	{
 		"name": "Charararu",
 		"passwd": "",
 		"gecos": "",
@@ -469,7 +452,6 @@
 			"otukado",
 			"Fto4",
 			"uni-kakurenbo",
-			"reiroop",
 			"Charararu",
 			"renkonmaster"
 		]
