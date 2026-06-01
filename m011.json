@@ -425,6 +425,23 @@
 		]
 	},
 	{
+		"name": "ACF37",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/ACF37",
+		"shell": "/bin/bash",
+		"uid": 60065,
+		"gid": 60065
+	},
+	{
+		"name": "ACF37",
+		"passwd": "",
+		"gid": 60065,
+		"members": [
+			"ACF37"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -453,7 +470,8 @@
 			"Fto4",
 			"uni-kakurenbo",
 			"Charararu",
-			"renkonmaster"
+			"renkonmaster",
+			"ACF37"
 		]
 	}
 ]
