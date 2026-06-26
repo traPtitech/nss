@@ -75,6 +75,21 @@
 		"members": ["blancnoir256"]
 	},
 	{
+		"name": "Pugma",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/Pugma",
+		"shell": "/bin/bash",
+		"uid": 60046,
+		"gid": 60046
+	},
+	{
+		"name": "Pugma",
+		"passwd": "",
+		"gid": 60046,
+		"members": ["Pugma"]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -83,7 +98,8 @@
 			"cp-20",
 			"pirosiki197",
 			"kentaro1043",
-			"blancnoir256"
+			"blancnoir256",
+			"Pugma"
 		]
 	}
 ]
