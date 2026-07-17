@@ -442,6 +442,23 @@
 		]
 	},
 	{
+		"name": "y33550336",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/y33550336",
+		"shell": "/bin/bash",
+		"uid": 60066,
+		"gid": 60066
+	},
+	{
+		"name": "y33550336",
+		"passwd": "",
+		"gid": 60066,
+		"members": [
+			"y33550336"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -471,7 +488,8 @@
 			"uni-kakurenbo",
 			"Charararu",
 			"renkonmaster",
-			"ACF37"
+			"ACF37",
+			"y33550336"
 		]
 	}
 ]
