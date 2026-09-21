@@ -90,6 +90,23 @@
 		"members": ["Pugma"]
 	},
 	{
+		"name": "renkonmaster",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/renkonmaster",
+		"shell": "/bin/bash",
+		"uid": 60064,
+		"gid": 60064
+	},
+	{
+		"name": "renkonmaster",
+		"passwd": "",
+		"gid": 60064,
+		"members": [
+			"renkonmaster"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -99,7 +116,8 @@
 			"pirosiki197",
 			"kentaro1043",
 			"blancnoir256",
-			"Pugma"
+			"Pugma",
+			"renkonmaster"
 		]
 	}
 ]
