@@ -107,6 +107,23 @@
 		]
 	},
 	{
+		"name": "aoringo0606",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/aoringo0606",
+		"shell": "/bin/bash",
+		"uid": 60067,
+		"gid": 60067
+	},
+	{
+		"name": "aoringo0606",
+		"passwd": "",
+		"gid": 60067,
+		"members": [
+			"aoringo0606"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
@@ -117,7 +134,8 @@
 			"kentaro1043",
 			"blancnoir256",
 			"Pugma",
-			"renkonmaster"
+			"renkonmaster",
+			"aoringo0606"
 		]
 	}
 ]
