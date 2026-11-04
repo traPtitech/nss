@@ -34,12 +34,30 @@
 		]
 	},
 	{
+		"name": "aoringo0606",
+		"passwd": "",
+		"gecos": "",
+		"dir": "/home/aoringo0606",
+		"shell": "/bin/bash",
+		"uid": 60067,
+		"gid": 60067
+	},
+	{
+		"name": "aoringo0606",
+		"passwd": "",
+		"gid": 60067,
+		"members": [
+			"aoringo0606"
+		]
+	},
+	{
 		"name": "sysad",
 		"passwd": "",
 		"gid": 60000,
 		"members": [
 			"Takeno-hito",
-			"cp-20"
+			"cp-20",
+			"aoringo0606"
 		]
 	}
 ]
