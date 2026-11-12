@@ -34,20 +34,20 @@
 		]
 	},
 	{
-		"name": "Kentaro1043",
+		"name": "kentaro1043",
 		"passwd": "",
 		"gecos": "",
-		"dir": "/home/Kentaro1043",
+		"dir": "/home/kentaro1043",
 		"shell": "/bin/bash",
 		"uid": 60053,
 		"gid": 60053
 	},
 	{
-		"name": "Kentaro1043",
+		"name": "kentaro1043",
 		"passwd": "",
 		"gid": 60053,
 		"members": [
-			"Kentaro1043"
+			"kentaro1043"
 		]
 	},
 	{
@@ -75,7 +75,7 @@
 			"Takeno-hito",
 			"cp-20",
 			"aoringo0606",
-			"Kentaro1043"
+			"kentaro1043"
 		]
 	}
 ]
